@@ -104,6 +104,7 @@ parallel-frequent-itemset-mining/
 │   └── transactions.csv
 ├── results/
 │   └── frequent_itemsets.csv
+<<<<<<< HEAD
 ├── plots/
 │   ├── benchmarking_plot.png
 │   └── performance_analysis.png
@@ -116,6 +117,9 @@ parallel-frequent-itemset-mining/
 ```
 
 ---
+=======
+└── README.md
+```
 
 ## 👥 Made by
 
