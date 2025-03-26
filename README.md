@@ -55,4 +55,4 @@ parallel-frequent-itemset-mining/
 └── README.md
 
 
-Made by Alan Mendoza, Daniel Herrera, Frank chan , Rogelio Novelo, Krishna Sandoval, Emmanuel Carmona, Carlos Helguera.
+## Made by Alan Mendoza, Daniel Herrera, Frank chan , Rogelio Novelo, Krishna Sandoval, Emmanuel Carmona, Carlos Helguera.
