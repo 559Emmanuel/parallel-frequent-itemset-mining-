@@ -54,3 +54,5 @@ parallel-frequent-itemset-mining/
 │   └── frequent_itemsets.csv
 └── README.md
 
+
+Made by Alan Mendoza, Daniel Herrera, Frank chan , Rogelio Novelo, Krishna Sandoval, Emmanuel Carmona, Carlos Helguera.
