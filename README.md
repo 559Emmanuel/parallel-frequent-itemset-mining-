@@ -104,22 +104,19 @@ parallel-frequent-itemset-mining/
 │   └── transactions.csv
 ├── results/
 │   └── frequent_itemsets.csv
-<<<<<<< HEAD
 ├── plots/
 │   ├── benchmarking_plot.png
 │   └── performance_analysis.png
 └── src/
-    ├── serial_version.py
-    ├── parallel_version.py
-    ├── parallel_version_with_subplots.py
-    ├── performance_plots.py
-    └── utils.py
-```
-
----
-=======
+|   ├── serial_version.py
+|   ├── parallel_version.py
+|   ├── parallel_version_with_subplots.py
+|   ├── performance_plots.py
+|   └── utils.py
+|
 └── README.md
 ```
+
 
 ## 👥 Made by
 
